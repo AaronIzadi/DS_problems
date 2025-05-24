@@ -1,4 +1,4 @@
-# ds_problems
+# DS_problems
 
 This repository contains a curated collection of **Data Structures problems** that I’ve implemented and solved to practice key concepts, improve coding fluency, and build a personal reference library.
 
